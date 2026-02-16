@@ -1,5 +1,5 @@
 # Java Chord / Mode Speller
-An Object-Oriented Java Chord / Mode Speller
+## An Object-Oriented Java Chord / Mode Speller
 
 [PHP - Chord / Mode speller](https://github.com/burnedfaceless/Chord-Mode-Speller) - This was one of the first projects that I completed a few months after I started programming. I've had the repo hidden for some time, but I wanted to rewrite this project using Java and better practices.
 
