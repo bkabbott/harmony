@@ -1,4 +1,4 @@
-package com.brianabbott.music.harmony;
+package com.staffcasts.music.harmony;
 
 public class Triad {
     private String root;
