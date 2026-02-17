@@ -6,7 +6,7 @@
  * Last modified: 2/17/26
  * Description: To be filled in by the user.
  */
-package com.staffcasts.music.harmony;
+package com.staffcasts.harmony;
 
 public class SeventhChord {
 }

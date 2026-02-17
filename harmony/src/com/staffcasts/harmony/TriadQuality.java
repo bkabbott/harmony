@@ -1,4 +1,4 @@
-package com.staffcasts.music.harmony;
+package com.staffcasts.harmony;
 
 public enum TriadQuality {
     MAJOR,
